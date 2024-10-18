@@ -9,8 +9,8 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: |
-      sitting
-      together
+      `sitting
+      together`
       sofa
       turns
       about

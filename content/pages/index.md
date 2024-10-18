@@ -8,9 +8,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: |
+    text: |+
       `sitting
-      together`
+      together
       sofa
       turns
       about
@@ -4745,7 +4745,8 @@ sections:
       show up
       showing
       relational
-      recognises
+      recognises`
+
     actions:
       - label: Get started
         altText: ''
